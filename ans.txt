@@ -1,0 +1,11 @@
+The category is people_
+The celebs are Shah Rukh Khan 
+Adult content absent
+Racy content absent
+The foreground color is White
+The background color is White
+Color Image
+Tags are person, man, indoor, laptop, front, computer, looking, smiling, holding, camera, young, shirt, using, posing, glasses, sitting, suit, wearing, standing, black, table, room, white, 
+Description of the image is Shah Rukh Khan looking at the camera
+object 1 age is 43 , gender is Male
+height of image is 429,the width of image is 715,the format is Jpeg
